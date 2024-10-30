@@ -1,1 +1,5 @@
-Ja faço
+This repository contains the files for the 2022/2023 Object-Oriented Programming project, which is a game developed according to the requirements in the project brief. To use, simply download the zip files, extract the contents, and place them in the project directory. The file Rogue_PedroSobral105456.zip contains the game code, and GraphPack_2023_2024_V1_1.zip includes the necessary graphics package for the interface. Running the code will launch the game, which follows the specifications given in the project brief.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Este repositório contém os ficheiros para o projeto de Programação Orientada a Objetos de 2022/2023 que é um jogo desenvolvido de acordo com os requisitos do enunciado para utilizar basta fazer o download dos ficheiros em formato zip extrair o conteúdo e colocar no diretório do projeto o arquivo Rogue_PedroSobral105456.zip contém o código do jogo e o GraphPack_2023_2024_V1_1.zip inclui o pacote de gráficos necessários para a interface ao executar o código o jogo será iniciado e refletirá as especificações dadas no enunciado
